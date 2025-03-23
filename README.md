@@ -18,4 +18,4 @@ docker run -d -p 8080:8080 health-api
 curl http://localhost:8080/health
 
 
-## the message should show {"status":"ok"}
+## the message should be {"status":"ok"}
